@@ -72,9 +72,6 @@ A Streamlit-powered application for analyzing personal finances and tracking exp
 
 5. Upload a bank statement in CSV format to explore the dashboard.
 
-## Screenshot
-
-![Personal Expense Tracker Dashboard](screenshots/screenshot.jpeg)
 
 ## Purpose
 
